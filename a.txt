@@ -8,3 +8,6 @@ TCS
 ------
 Honda
 Thar
+------
+Indigo
+AirIndia
