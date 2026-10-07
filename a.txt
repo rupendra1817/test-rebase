@@ -5,3 +5,12 @@ Raj
 ------
 HCL
 TCS
+------
+Honda
+Thar
+------
+Indigo
+AirIndia
+----------
+india
+pakistan
