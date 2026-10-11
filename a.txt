@@ -33,5 +33,3 @@ I
 J
 K
 L
-----
-Code smell
